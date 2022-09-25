@@ -46,7 +46,7 @@
 
 
 [linkedin]: https://www.linkedin.com/in/murat-%C5%9Fahin-45b7b8229/ 
-[website]: https://muratsah.com
+[website]: https://www.muratsah.com
 
 
 
