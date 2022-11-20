@@ -5,6 +5,8 @@
 ## Back-End Developer
 
 ### Yazılım alanında kendini geliştirmeye ve güncel tutmaya çalışıyorum. Elimden geldiğince bütün alanlar hakkında fikir sahibi olmaya gayret gösteriyorum. Odaklandığım alan ise back-end.
+<br/>
+yazılım kariyerim galiba sona ermiş bulunmakta 20.11.22
 
 <br/>
 
